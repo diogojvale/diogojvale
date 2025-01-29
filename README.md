@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Diogo Vale | 👨‍💻 Frontend Developer
+# 👋 Hi, I'm Diogo Vale 
 
 ## 🚀 About Me  
 🎓 Third-year student pursuing a **Bachelor's Degree in Web Technologies and Information Systems** at **ESMAD** (Escola Superior de Media Artes e Design).  
