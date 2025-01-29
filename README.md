@@ -40,6 +40,6 @@ Here, you'll find a collection of my **academic and personal projects** that ref
 ---
 
 ## 📫 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/diogojvale/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogojvale/)   
 
 🚀 **Always learning and building cool things!**  
